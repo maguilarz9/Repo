@@ -9,3 +9,5 @@ while whatever_iterator:
     except StopIteration:
         print("End of iterator")
         break
+
+print(next(whatever_iterator))
