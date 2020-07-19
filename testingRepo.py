@@ -11,3 +11,5 @@ while whatever_iterator:
         break
 
 print(next(whatever_iterator))
+print(next(whatever_iterator))
+
