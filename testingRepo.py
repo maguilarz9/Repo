@@ -9,7 +9,10 @@ while whatever_iterator:
     except StopIteration:
         print("End of iterator")
         break
+<<<<<<< HEAD
 
 print(next(whatever_iterator))
 print(next(whatever_iterator))
 
+=======
+>>>>>>> parent of bd10e0b... third testing commit
